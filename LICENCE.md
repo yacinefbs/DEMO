@@ -1,0 +1,2 @@
+# My licence file
+Lorem
